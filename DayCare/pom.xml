@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DayCare:project xmlns:DayCare="http://maven.apache.org/POM/4.0.0"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <DayCare:modelVersion>4.0.0</DayCare:modelVersion>
+
+    <DayCare:groupId>org.example</DayCare:groupId>
+    <DayCare:artifactId>DayCare</DayCare:artifactId>
+    <DayCare:version>1.0-SNAPSHOT</DayCare:version>
+
+    <DayCare:properties>
+        <DayCare:maven.compiler.source>19</DayCare:maven.compiler.source>
+        <DayCare:maven.compiler.target>19</DayCare:maven.compiler.target>
+        <DayCare:project.build.sourceEncoding>UTF-8</DayCare:project.build.sourceEncoding>
+    </DayCare:properties>
+
+</DayCare:project>
