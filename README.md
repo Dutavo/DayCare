@@ -1,8 +1,8 @@
-Sistema de uma Creche Pokemon
+### Sistema de uma Creche Pokemon
 
-Feita com intuito para os treinadores pokemons deixarem seus pokemons descansando com segurança enquanto se aventuram em suas jornadas.
+Projeto feito em Linguangem Java Orientada a Objeto, feita com intuito para os treinadores pokemons deixarem seus pokemons descansando com segurança enquanto se aventuram em suas jornadas.
 
-Funcionalidades: 
+**Funcionalidades:**
 - Cadastrar os Pokemons
 - Procurar os Pokemons
 - Listar os Pokemons no sistema
